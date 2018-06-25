@@ -58,4 +58,3 @@ content=content['lrc']['lyric']
 # 歌词
 print(content)
 
-
