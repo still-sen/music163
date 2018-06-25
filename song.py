@@ -60,5 +60,3 @@ print(content)
 content=content['data'][0]['url']
 # 歌曲播放链接
 print(content)
-
-
